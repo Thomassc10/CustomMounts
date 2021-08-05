@@ -1,4 +1,4 @@
-package me.thomas.custommounts;
+package me.thomas.custommounts.inventory;
 
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;

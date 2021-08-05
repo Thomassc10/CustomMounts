@@ -1,5 +1,7 @@
-package me.thomas.custommounts;
+package me.thomas.custommounts.mountsmanager;
 
+import me.thomas.custommounts.CustomMounts;
+import me.thomas.custommounts.mountsmanager.Mount;
 import org.bukkit.Sound;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;

@@ -1,5 +1,7 @@
-package me.thomas.custommounts;
+package me.thomas.custommounts.inventory;
 
+import me.thomas.custommounts.CustomMounts;
+import me.thomas.custommounts.mountsmanager.Mount;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.entity.LivingEntity;

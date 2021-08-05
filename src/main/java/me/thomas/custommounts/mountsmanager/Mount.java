@@ -1,4 +1,4 @@
-package me.thomas.custommounts;
+package me.thomas.custommounts.mountsmanager;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;

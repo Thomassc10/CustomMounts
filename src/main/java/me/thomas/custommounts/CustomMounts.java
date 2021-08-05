@@ -2,6 +2,14 @@ package me.thomas.custommounts;
 
 import com.comphenix.protocol.ProtocolLibrary;
 import com.comphenix.protocol.ProtocolManager;
+import me.thomas.custommounts.commands.MountsGUICommand;
+import me.thomas.custommounts.events.MoveMount;
+import me.thomas.custommounts.events.PlayerDismount;
+import me.thomas.custommounts.inventory.GUI;
+import me.thomas.custommounts.inventory.InventoryClick;
+import me.thomas.custommounts.inventory.InventoryClose;
+import me.thomas.custommounts.mountsmanager.AddMount;
+import me.thomas.custommounts.mountsmanager.Mount;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.command.Command;

@@ -1,4 +1,4 @@
-package me.thomas.custommounts;
+package me.thomas.custommounts.events;
 
 import org.bukkit.Particle;
 import org.bukkit.Sound;
