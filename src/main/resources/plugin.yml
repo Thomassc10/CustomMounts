@@ -1,0 +1,11 @@
+name: CustomMounts
+version: ${project.version}
+main: me.thomas.custommounts.CustomMounts
+api-version: 1.16
+authors: [ Thomas ]
+description: Ability to mount every mob in the game
+depend: [ProtocolLib]
+
+commands:
+  mounts:
+  tamestick:
